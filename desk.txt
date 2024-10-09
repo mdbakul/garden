@@ -1,0 +1,51 @@
+The the update version of HTML template Natureplant was created for gardening purposes such as recycling plants, solar energy, ecology, waste lead, and gardening . JS, HTML5, Sass, and Bootstrap 5 are all used. It looks fantastic on practically all devices and is highly responsive. It is an HTML template with a sleek appearance and quick working.
+
+Natureplant  is able to assist you design a distinctive and contemporary website. It's quite simple to modify the code to fit your requirements.
+
+The Natureplant Garden HTML5 Template includes a completely flexible layout for all instrument kinds,garden sites, gardener portal system sites, bbq sites, construction, firewood, flowers, ecology, landscape, lawn, lumberjack, shop and similar websites making sure your website looks great and performs perfectly whatever the screen size or browser kind. As a result, it assures a great experience for customers. In addition, because we used well-documented, pure code, it is optimized for quicker execution.
+
+Overview:
+Bootstrap 5. framework:
+Bootstrap, HTML, SCSS, and JS framework for developing responsive and mobile-first themes on the web.
+
+Developer friendly code:
+Natureplant models represent a beautiful and clean  design.
+
+3 home pages:
+The Natureplant template has a beautiful, clean homepage.
+
+Touch screen:
+Browse easily with touch devices.
+
+100% sure answer:
+No matter what device you use, your website will perform as expected. Natureplant models have a very responsive layout and are suitable for all types of devices.
+
+Features items:
+1. made with Bootstrap 5 and SASS
+2. 100% response.
+3. Flat, modern and simple design.
+4. Retina is ready.
+5.  SEO optimization.
+6. Sass css.
+7. The user experience is ready. Touch friendly.
+8. W3C verification code.
+9. fixed budget.
+10. It's clean and well-marked.
+11. HTML5/CSS3 certified.
+12. 3+ Home Page.
+13. The slider uses the Swiper plugin.
+14. Google fonts
+15. It includes Active and Objective types.
+16. Cross browser support
+17. write well  Documented.
+18. No console errors
+
+JavaScript Plugins:
+1. Bootstrap
+2. jQuery
+3. Nice Select
+4. Swiper Slider
+5.Lightcase
+
+Please Note:
+All images are  for preview purposes only. It is not part of the HTML template and will not be included in the final sales document.
